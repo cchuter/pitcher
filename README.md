@@ -32,5 +32,10 @@ pitcher_joint_angles.png
 
 The first file is the joint angles determined by frame and the second is a 2D plot over time.
 
+![jpeg image](luke.jpg "Luke Weaver Pitching Analysis")
 
+Sample pitcher_video_analyzed framecap
 
+![png image](luke_joint_angles.png "Luke Weaver Joint Angles Chart")
+
+Sample pitcher_joint_angles.png
