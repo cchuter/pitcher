@@ -1,9 +1,10 @@
-# Pitching analysis Tools
+# Pitching Analysis Tools
 You will need python installed to run this program.
 
 ## Start up guide
 First download this repo if you haven't already:
-`git clone github.com/cchuter/pitcher.git`
+
+`git clone https://github.com/cchuter/pitcher.git`
 
 Next, setup your python environment:
 ```
