@@ -21,7 +21,7 @@ Then run:
 
 `python pitcher_analysis.py`
 
-You should see a video come up mapping the pitcher's joints and torso (and possibly their face). Then a ploy of arm and leg angles will save and dispay. An example of Luke Weaver pitching is analysed from a Tik Tok video.
+You should see a video come up mapping the pitcher's joints and torso (and possibly their face). Then a plot of arm and leg angles will save and dispay. An example of Luke Weaver pitching is analysed from an included Tik Tok video.
 
 Two files will be created:
 
